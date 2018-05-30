@@ -1,2 +1,2 @@
-# Assignment2_data_science
-Jupyter notebook exercises
+# data_science_python_assignment2
+Jupyter notebook exercises for Olympic data!
